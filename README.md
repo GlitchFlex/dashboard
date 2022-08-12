@@ -1,3 +1,25 @@
+# Dashboard
+
+This is a dashboard which loads the flight data depending on the text input that is given to it.
+
+
+
+
+## Dependency
+
+chakra-ui/react
+
+fortawesome
+
+mapbox-gl
+
+react-map-gl
+
+bootstrap 
+
+react
+
+sass
 ## Run Locally
 
 Clone the project

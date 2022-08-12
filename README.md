@@ -1,16 +1,3 @@
-# Giftly
-
-This is a frontend of an organization Giftly. This was totally custom coded and no third party ui libraries were used.
-
-
-## Dependency
-
-This project uses only React as a dependency
-
-
-
-
-
 ## Run Locally
 
 Clone the project
@@ -42,3 +29,4 @@ Start the server
 ```bash
   npm run start
 ```
+
